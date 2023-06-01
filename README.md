@@ -12,34 +12,35 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/latte.webp"/>
+<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/frappe.webp"/>
+<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/macchiato.webp"/>
+<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/mocha.png"/>
 </details>
 
 ## Usage
 
-1. Clone this repository `git clone https://github.com/catppuccin/ueli.git`
-2. Open ueli settings
-3. Click on import color theme from the color theme settings
-4. Choose your theme from the themes folder
+1. Go to [releases](https://github.com/lighttigerXIV/ueli/releases) page
+2. Download your favourite theme
+3. Open ueli settings
+4. Click on import color theme from the color theme settings
+5. Choose the theme you previously downloaded
 
 ## 💝 Thanks to
 
