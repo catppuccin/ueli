@@ -12,31 +12,31 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/ueli/main/assets/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/latte.png"/>
+<img src="https://raw.githubusercontent.com/catppuccin/ueli/main/assets/latte.png"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/frappe.png"/>
+<img src="https://raw.githubusercontent.com/catppuccin/ueli/main/assets/frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/macchiato.png"/>
+<img src="https://raw.githubusercontent.com/catppuccin/ueli/main/assets/macchiato.png"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://github.com/lighttigerXIV/ueli/blob/master/assets/mocha.png"/>
+<img src="https://raw.githubusercontent.com/catppuccin/ueli/main/assets/mocha.png"/>
 </details>
 
 ## Usage
 
-1. Go to [releases](https://github.com/lighttigerXIV/ueli/releases) page
+1. Go to [releases](https://github.com/catppuccin/ueli/releases) page
 2. Download your favourite theme
 3. Open ueli settings
 4. Click on import color theme from the color theme settings
