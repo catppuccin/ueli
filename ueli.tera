@@ -1,0 +1,24 @@
+---
+whiskers:
+  version: 2.1.0
+  matrix:
+    - accent
+    - flavor
+  filename: "themes/{{ flavor.identifier }}/catppuccin-{{ flavor.identifier }}-{{ accent }}.json"
+---
+
+{%- set palette = flavor.colors -%}
+
+{
+  "name": "Catppuccin {{ flavor.name }} {{ accent | capitalize }}",
+  "userInputBackgroundColor": "#{{ palette.base.hex }}",
+  "userInputTextColor": "#{{ palette.blue.hex }}",
+  "searchResultsBackgroundColor": "#{{ palette.base.hex }}",
+  "searchResultsItemActiveBackgroundColor": "#{{ palette.surface0.hex }}",
+  "searchResultsItemActiveDescriptionColor": "#{{ palette.text.hex }}",
+  "searchResultsItemActiveTextColor": "#{{ palette.blue.hex }}",
+  "searchResultsItemDescriptionTextColor": "#{{ palette.subtext1.hex }}",
+  "searchResultsItemNameTextcolor": "#{{ palette.subtext1.hex }}",
+  "scrollbarBackgroundColor": "#{{ palette.base.hex }}",
+  "scrollbarForegroundColor": "#{{ palette.overlay0.hex }}"
+}

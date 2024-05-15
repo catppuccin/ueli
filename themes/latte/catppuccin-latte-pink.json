@@ -1,0 +1,13 @@
+{
+  "name": "Catppuccin Latte Pink",
+  "userInputBackgroundColor": "#eff1f5",
+  "userInputTextColor": "#1e66f5",
+  "searchResultsBackgroundColor": "#eff1f5",
+  "searchResultsItemActiveBackgroundColor": "#ccd0da",
+  "searchResultsItemActiveDescriptionColor": "#4c4f69",
+  "searchResultsItemActiveTextColor": "#1e66f5",
+  "searchResultsItemDescriptionTextColor": "#5c5f77",
+  "searchResultsItemNameTextcolor": "#5c5f77",
+  "scrollbarBackgroundColor": "#eff1f5",
+  "scrollbarForegroundColor": "#9ca0b0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Catppuccin Macchiato Rosewater",
+  "userInputBackgroundColor": "#24273a",
+  "userInputTextColor": "#8aadf4",
+  "searchResultsBackgroundColor": "#24273a",
+  "searchResultsItemActiveBackgroundColor": "#363a4f",
+  "searchResultsItemActiveDescriptionColor": "#cad3f5",
+  "searchResultsItemActiveTextColor": "#8aadf4",
+  "searchResultsItemDescriptionTextColor": "#b8c0e0",
+  "searchResultsItemNameTextcolor": "#b8c0e0",
+  "scrollbarBackgroundColor": "#24273a",
+  "scrollbarForegroundColor": "#6e738d"
+}
