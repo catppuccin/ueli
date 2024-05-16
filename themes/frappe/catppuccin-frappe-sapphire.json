@@ -1,0 +1,13 @@
+{
+  "name": "Catppuccin Frappé Sapphire",
+  "userInputBackgroundColor": "#303446",
+  "userInputTextColor": "#8caaee",
+  "searchResultsBackgroundColor": "#303446",
+  "searchResultsItemActiveBackgroundColor": "#414559",
+  "searchResultsItemActiveDescriptionColor": "#c6d0f5",
+  "searchResultsItemActiveTextColor": "#8caaee",
+  "searchResultsItemDescriptionTextColor": "#b5bfe2",
+  "searchResultsItemNameTextcolor": "#b5bfe2",
+  "scrollbarBackgroundColor": "#303446",
+  "scrollbarForegroundColor": "#737994"
+}
